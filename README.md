@@ -15,7 +15,7 @@ A beautiful syntax highlighter based on TextMate grammar, accurate and powerful.
 >
 > Read more about [The Evolution of Shiki v1.0](https://nuxt.com/blog/shiki-v1).
 >
-> For legacy code, check the [v0.x branch](https://github.com/shikijs/shiki/tree/v0).
+> For legacy Code, check the [v0.x branch](https://github.com/shikijs/shiki/tree/v0).
 
 ## License
 
